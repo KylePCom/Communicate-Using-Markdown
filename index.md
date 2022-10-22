@@ -6,3 +6,7 @@
 ```
 $ echo hello
 ```
+
+- [ ] Finish Quiz for Class
+- [x] Do Github Related Homework
+- [ ] Do Coding Homework
